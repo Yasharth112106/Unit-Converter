@@ -45,6 +45,7 @@ body{
 }
 .upper button{
     width: 25%;
+    height: 40px;
     margin: auto;
     background-color: white;
     color: #3D3D3D;
